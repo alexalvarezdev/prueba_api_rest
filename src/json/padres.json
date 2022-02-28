@@ -1,0 +1,12 @@
+[{
+    "numserie": 8888,
+    "tipo_dispositivo": 2,
+    "id_padre": null,
+    "id_abuelo": 9999
+  },
+  {  
+    "numserie": 7777,
+    "tipo_dispositivo": 2,
+    "id_padre": null,
+    "id_abuelo": 9999
+  }]
